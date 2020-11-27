@@ -9,5 +9,6 @@ class Shoe
   
   def cobble
     puts "Shoe has been repaired"
+    cobble=("new")
   end 
 end
