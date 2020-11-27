@@ -2,6 +2,6 @@
 
 class Shoe
   def initialize(brand)
-    
+  asser  
   end
 end
