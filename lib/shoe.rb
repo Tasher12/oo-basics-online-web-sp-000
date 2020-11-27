@@ -8,6 +8,7 @@ class Shoe
   end
   
   def cobble(condition = "tattered")
+    @condition=("tattered")
     puts "Shoe has been repaired"
   end 
 end
