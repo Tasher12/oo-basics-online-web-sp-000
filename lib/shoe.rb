@@ -9,7 +9,6 @@ class Shoe
   
   def cobble(condition = "tattered")
     puts "Shoe has been repaired"
-  else
-    puts "Shoe is new"
+  
   end 
 end
