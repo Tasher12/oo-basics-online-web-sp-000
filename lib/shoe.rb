@@ -8,7 +8,7 @@ class Shoe
   end
   
   def cobble
-    puts "Shoe has been repaired"
+    puts "Your shoe has been repaired"
     cobble=("new")
   end 
 end
